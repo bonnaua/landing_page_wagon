@@ -1,0 +1,24 @@
+footer {
+  background-color:black;
+  padding:16px;
+
+}
+footer li .fab {
+  color:#71DE89;
+  font-size: 32px;
+  margin-left:0;
+}
+footer li {
+  display: inline-block;
+  justify-content: center;
+  margin-left:0;
+  padding:8px;
+}
+footer p {
+  color:white;
+  text-align: center;
+}
+
+footer ul {
+  text-align: center;
+}
